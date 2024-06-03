@@ -28,7 +28,7 @@ def sendMail(email, Url):
     smtp_server = "smtp.gmail.com"
     sender_email = "czmild.montana@gmail.com"
     receiver_email = email
-    password = 'pfscittgrwljpmdm'
+    password = '##########'
     subject = "C'est le moment pour ton achat !"
     message = f"""
     Le prix a baissé! go pour ton achat!\n
