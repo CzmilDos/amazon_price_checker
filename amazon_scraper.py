@@ -26,7 +26,7 @@ def check_price(Url):
 def sendMail(email, Url):
     port = 465  # SSL
     smtp_server = "smtp.gmail.com"
-    sender_email = "czmild.montana@gmail.com"
+    sender_email = "email@gmail.com"
     receiver_email = email
     password = '##########'
     subject = "C'est le moment pour ton achat !"
